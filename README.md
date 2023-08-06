@@ -7,4 +7,5 @@ If you're a law student, the syllabusses and suggested readings might be helpful
 If you're a professor teaching any of these subjects, feel free to follow the sample syllabus or suggest changes (both for syllabus as well as suggested readings).
 
 Best, 
+
 [Anshuman](www.anshumansahoo.com)
