@@ -18,4 +18,8 @@ Anshuman
 (https://anshumansahoo.com/)
 
 
+## Links to individual subjects:
 
+Corporate Law
+
+[Github repository](https://github.com/anshuman-law/law-syllabi)
