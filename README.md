@@ -20,6 +20,6 @@ Anshuman
 
 ## Links to individual subjects:
 
-Corporate Law
+[Corporate Law](https://github.com/anshuman-law/law-syllabi/blob/main/Corporate-Law.md)
 
 [Github repository](https://github.com/anshuman-law/law-syllabi)
