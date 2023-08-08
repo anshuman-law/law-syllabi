@@ -87,6 +87,16 @@ o	Formation of company
 
 o	Online registration of a company
 
+o	Suggested readings: 
+
+    o	BE McCrea, Disclosure of Promoters' Secret Profits, available at https://heinonline.org/HOL/P?h=hein.journals/ubclr3&i=781
+
+    o	TF Baines, Company liability for pre-incorporation contracts, available at https://heinonline.org/HOL/P?h=hein.journals/utflr16&i=37
+
+    o	MA Maloney, Pre-incorporation transactions: A statutory solution?, available at: https://heinonline.org/HOL/P?h=hein.journals/canadbus10&i=429
+
+    o	HR Saviprasad, Pre-incorporation contracts: A comparative analysis of Indian and English Laws, available at https://www.jstor.org/stable/43951798
+
 
 
 ### Module V: Important Documents and Doctrines:
@@ -102,6 +112,9 @@ o	Doctrine of Indoor Management
 
 o	Doctrine of Constructive Notice  
 
+o	Suggested readings:
+
+    o	Clinton Bristow, Legal Considerations in the Incorporation Process, available at https://heinonline.org/HOL/P?h=hein.journals/natblj4&i=75
 
 
 ### Module VI: Shares and Share Capital-Concepts:
@@ -184,7 +197,11 @@ o	Corporate management: appointment of directors and Board of Directors
 
 o	Corporate public accountability
 
+o	Suggested readings:
+    
+    o	EB Rock, For Whom is the Corporation Managed in 2020?: The Debate over Corporate Purpose, available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589951
 
+    o	Colin Mayer, The Future of the Corporation and the Economics of Purpose, available at: https://doi.org/10.1111/joms.12660
 
 
 
@@ -197,9 +214,6 @@ o	Corporate public accountability
 
 3.	Kent Greenfield, The Failure of Corporate Law: fundamental flaws & progressive possibilities (2006).
 
-4.	EB Rock, For Whom is the Corporation Managed in 2020?: The Debate over Corporate Purpose, available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589951. 
-
-5.	Colin Mayer, The Future of the Corporation and the Economics of Purpose, available at: https://doi.org/10.1111/joms.12660.
 
 
 
