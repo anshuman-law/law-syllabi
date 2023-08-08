@@ -19,6 +19,10 @@ o	Information asymmetry and corporate disclosures
 
 o	Meaning and definition of company 
 
+o	Suggested readings:
+
+    o	Henry Hansmann et al, Law and the Rise of the Firm (2006), available at: https://www.jstor.org/stable/4093574
+
 ### Module II: Conceptual Foundations:
 
 o	Corporate Personality
@@ -89,25 +93,13 @@ o	Issue and Redemption of Preference Shares
 
 o	Buyback of Securities
 
-
-
-### Module VII: Members and Shareholders:
-
-
-o	Register of Members
-
-o	Rectification of Register of Members
-
-o	Rights of Members 
-
 o	Variation of Shareholders’ Rights
 
 o	Transferability of shares 
 
 
 
-### Module VIII: Debt Instruments-Concepts
-
+### Module VII: Debt Instruments
 
 
 o	Issue and Redemption of Debentures and Bonds
@@ -119,6 +111,53 @@ o	Debenture Redemption Reserve
 o	Debenture Trust Deed
 
 o	Conversion of Debentures into Shares
+
+
+### Module VIII: Corporate Reconstruction
+
+o	Corporate reconstruction: reasons, national and international context
+
+o	Mergers & Acquisitions
+
+o	Takeover
+
+
+### Module IX: Corporate Insolvency
+
+o	Theories of corporate insolvency
+
+o	IBC 2016
+
+
+
+### Module X: Corporate Death
+
+o	Winding up
+
+o	Winding up by member and creditor
+
+
+
+### Module XI: Membership and Minority Rights
+
+o	Membership and rights of a member
+
+o	Corporate Democracy
+
+o	Protection of minority rights
+
+o	Power to investigate into the affairs of the company
+
+
+
+### Module XII: Corporate decision-making and Corporate Governance
+
+o	Corporate decision-making 
+
+o	Corporate management: appointment of directors and Board of Directors
+
+o	Corporate public accountability
+
 
 
 
@@ -151,3 +190,8 @@ o	Conversion of Debentures into Shares
 11.	Umakanth Varottil, The Evolution Of Corporate Law In Post‐Colonial India: From Transplant To Autochthony, available at: https://dx.doi.org/10.2139/ssrn.2557809.
 
 12.	Katsuhito Iwai, Persons, Things and Corporations: The Corporate Personality Controversy and Comparative Corporate Governance, available at: https://doi.org/10.2307/841070.
+
+
+
+
+For more, visit https://anshuman-law.github.io/law-syllabi/
