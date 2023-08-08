@@ -14,23 +14,23 @@ o Steps involved in the research process
 
 o Suggested readings:
 
-  o R Dworkin, Legal Research, https://www.jstor.org/stable/20024127
+    o R Dworkin, Legal Research, https://www.jstor.org/stable/20024127
   
-  o RA Posner, Legal Research and Practical Experience, https://www.jstor.org/stable/44211832
+    o RA Posner, Legal Research and Practical Experience, https://www.jstor.org/stable/44211832
   
-  o MM Siems, Legal Originality, http://www.jstor.org/stable/20185364
+    o MM Siems, Legal Originality, http://www.jstor.org/stable/20185364
 
-  o MM Siems and D mac Síthigh, Mapping Legal Research, http://www.jstor.org/stable/41819933
+    o MM Siems and D mac Síthigh, Mapping Legal Research, http://www.jstor.org/stable/41819933
 
-  o SD Diamond & P Mueller, Empirical Legal Scholarship in Law Reviews, https://doi.org/10.1146/annurev-lawsocsci-102209-152848
+    o SD Diamond & P Mueller, Empirical Legal Scholarship in Law Reviews, https://doi.org/10.1146/annurev-lawsocsci-102209-152848
 
-  o David Nelken, Comparative Legal Research and Legal Culture: Facts, Approaches, and Values, https://doi.org/10.1146/annurev-lawsocsci-110615-084950
+    o David Nelken, Comparative Legal Research and Legal Culture: Facts, Approaches, and Values, https://doi.org/10.1146/annurev-lawsocsci-110615-084950
 
-  o V Kazmierski, How Much "Law" in Legal Studies? Approaches to Teaching Legal Research and Doctrinal Analysis in a Legal Studies Program, https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/how-much-law-in-legal-studies-approaches-to-teaching-legal-research-and-doctrinal-analysis-in-a-legal-studies-program/CC2EA6D327D80794651334F46822C4CA
+    o V Kazmierski, How Much "Law" in Legal Studies? Approaches to Teaching Legal Research and Doctrinal Analysis in a Legal Studies Program, https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/how-much-law-in-legal-studies-approaches-to-teaching-legal-research-and-doctrinal-analysis-in-a-legal-studies-program/CC2EA6D327D80794651334F46822C4CA
 
-  o U Baxi, Socio-legal Research in India - A Programschrift, https://www.jstor.org/stable/43952216
+    o U Baxi, Socio-legal Research in India - A Programschrift, https://www.jstor.org/stable/43952216
 
-  o M Heise, The Past, Present, and Future of Empirical Legal Scholarship: Judicial Decision Making and the New Empiricism, https://scholarship.law.cornell.edu/facpub/733/
+    o M Heise, The Past, Present, and Future of Empirical Legal Scholarship: Judicial Decision Making and the New Empiricism, https://scholarship.law.cornell.edu/facpub/733/
 
 
 
@@ -57,17 +57,17 @@ o Research planning: hypothesis, objectives, and research questions
 
 o Suggested readings:
 
-  o Fiona King, Cartooning and Mind Mapping in the Doctoral Journey, available at https://www.doi.org/10.1163/23644583-BJA10002
+    o Fiona King, Cartooning and Mind Mapping in the Doctoral Journey, available at https://www.doi.org/10.1163/23644583-BJA10002
 
-  o J Webster & RT Watson, Analyzing the Past to Prepare for the Future: Writing a Literature Review, available at https://www.jstor.org/stable/4132319
+    o J Webster & RT Watson, Analyzing the Past to Prepare for the Future: Writing a Literature Review, available at https://www.jstor.org/stable/4132319
 
-  o J Knopf, Doing a literature review, available at https://www.jstor.org/stable/20451692
+    o J Knopf, Doing a literature review, available at https://www.jstor.org/stable/20451692
 
-  o D Boote and P Beile, Scholars before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation, available at https://www.jstor.org/stable/3699805
+    o D Boote and P Beile, Scholars before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation, available at https://www.jstor.org/stable/3699805
 
-  o M Crowe & L Sheppard, Mind mapping research methods, https://doi.org/10.1007/s11135-011-9463-8
+    o M Crowe & L Sheppard, Mind mapping research methods, https://doi.org/10.1007/s11135-011-9463-8
 
-  o A Zanasi, Text Mining Tools, https://doi.org/10.2495/978-1-85312-995-7/21
+    o A Zanasi, Text Mining Tools, https://doi.org/10.2495/978-1-85312-995-7/21
 
 
 ### Module 3: Evidencing 
@@ -86,23 +86,23 @@ o Data analysis
 
 o Suggested readings:
 
-  o C Williams, Research Methods, https://doi.org/10.19030/jber.v5i3.2532
+    o C Williams, Research Methods, https://doi.org/10.19030/jber.v5i3.2532
   
-  o SK Cibangu, Qualitative Research: The Toolkit of Theories in the Social Sciences, https://www.intechopen.com/chapters/38282
+    o SK Cibangu, Qualitative Research: The Toolkit of Theories in the Social Sciences, https://www.intechopen.com/chapters/38282
   
-  o CJ Fearnley, Mind mapping in qualitative data analysis: Managing interview data in interdisciplinary and multi-sited research projects, https://doi.org/10.1002/geo2.109
+    o CJ Fearnley, Mind mapping in qualitative data analysis: Managing interview data in interdisciplinary and multi-sited research projects, https://doi.org/10.1002/geo2.109
 
-  o A Younas et al, Understanding the Nature of and Identifying and Formulating “Research Problems” in Mixed Methods Research, https://doi.org/10.1177/15586898231191441
+    o A Younas et al, Understanding the Nature of and Identifying and Formulating “Research Problems” in Mixed Methods Research, https://doi.org/10.1177/15586898231191441
 
-  o AL Cooper et al, Integrating Literature as a Data Source in Mixed Methods Research, https://doi.org/10.1177/15586898231188500
+    o AL Cooper et al, Integrating Literature as a Data Source in Mixed Methods Research, https://doi.org/10.1177/15586898231188500
 
-  o J Chandler et al, Online panels in social science research: Expanding sampling methods beyond Mechanical Turk, https://doi.org/10.3758/s13428-019-01273-7
+    o J Chandler et al, Online panels in social science research: Expanding sampling methods beyond Mechanical Turk, https://doi.org/10.3758/s13428-019-01273-7
 
-  o TH McCormick et al, Using Twitter for Demographic and Social Science Research: Tools for Data Collection and Processing, https://doi.org/10.1177/0049124115605339
+    o TH McCormick et al, Using Twitter for Demographic and Social Science Research: Tools for Data Collection and Processing, https://doi.org/10.1177/0049124115605339
 
-  o J Cyr, The Pitfalls and Promise of Focus Groups as a Data Collection Method, https://doi.org/10.1177/0049124115570065
+    o J Cyr, The Pitfalls and Promise of Focus Groups as a Data Collection Method, https://doi.org/10.1177/0049124115570065
 
-  o H Lune & BL Berg, Qualitative Research Methods for the Social Sciences, http://www.pearson.com/us/higher-education/product/Berg-Qualitative-Research-Methods-for-the-Social-Sciences-8th-Edition/9780205809387.html  
+    o H Lune & BL Berg, Qualitative Research Methods for the Social Sciences, http://www.pearson.com/us/higher-education/product/Berg-Qualitative-Research-Methods-for-the-Social-Sciences-8th-Edition/9780205809387.html  
 
 ### Module 4: Report Writing
 
