@@ -22,4 +22,6 @@ Anshuman
 
 [Corporate Law](https://github.com/anshuman-law/law-syllabi/blob/main/Corporate-Law.md)
 
+[Legal Research Methodology](https://github.com/anshuman-law/law-syllabi/blob/main/Legal-Research-Methodology.md)
+
 [Github repository](https://github.com/anshuman-law/law-syllabi)
