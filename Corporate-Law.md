@@ -21,7 +21,20 @@ o	Meaning and definition of company
 
 o	Suggested readings:
 
+    o	RH Coase, The Nature of the Firm, 4 Economica 386 (1937). Available at: https://doi.org/10.1111/j.1468-0335.1937.tb00002.x
+    
+    o	A Alchian and H Demsetz, Production, Information Costs, and Economic Organization, available at: https://www.jstor.org/stable/1815199
+
+    o	BD Baysinger & HN Butler, The Role of Corporate Law in the Theory of the Firm, 28 The Journal of Law and Economics 179 (1985). Available at: https://www.journals.uchicago.edu/doi/abs/10.1086/467079?journalCode=jle
+
     o	Henry Hansmann et al, Law and the Rise of the Firm (2006), available at: https://www.jstor.org/stable/4093574
+
+    o	Lynn S. Paine & Suraj Srinivasan, A Guide to the Big Ideas and Debates in Corporate Governance, available at: https://hbr.org/2019/10/a-guide-to-the-big-ideas-and-debates-in-corporate-governance
+
+    o	Milton Friedman, A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits, available at: https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html
+
+    o	Umakanth Varottil, The Evolution Of Corporate Law In Post‐Colonial India: From Transplant To Autochthony, available at: https://dx.doi.org/10.2139/ssrn.2557809
+
 
 ### Module II: Conceptual Foundations:
 
@@ -34,6 +47,19 @@ o	Separate property
 o	Capacity to sue or be sued
 
 o	Concept of Corporate Veil
+
+o	Suggested readings:
+
+    o	AW Machen, Corporate Personality, 24 Harvard Law Review 253 (1911). Available at: https://doi.org/10.2307/1324056
+    
+    o	Katsuhito Iwai, Persons, Things and Corporations: The Corporate Personality Controversy and Comparative Corporate Governance, available at: https://doi.org/10.2307/841070
+
+    o	AA Schwartz, The Perpetual Succession, 80 George Washington Law Review 764 (2012). Available at: https://heinonline.org/HOL/P?h=hein.journals/gwlr80&i=770
+
+    o	TK Cheng, The corporate veil doctrine revisited: comparative study of the english and the u.s. corporate veil doctrines, 34 Boston College International and Comparative Law Review 329 (2011). Available at: https://heinonline.org/HOL/P?h=hein.journals/bcic34&i=335
+
+    o	Joshua C. Macey, What Corporate Veil, 117 Michigan Law Review 1195 (2019). Available at: https://heinonline.org/HOL/P?h=hein.journals/mlr117&i=1247
+
 
 ### Module III: Types of Companies:
 
@@ -171,26 +197,9 @@ o	Corporate public accountability
 
 3.	Kent Greenfield, The Failure of Corporate Law: fundamental flaws & progressive possibilities (2006).
 
-4.	Henry Hansmann et al, Law and the Rise of the Firm (2006), available at: https://www.jstor.org/stable/4093574. 
+4.	EB Rock, For Whom is the Corporation Managed in 2020?: The Debate over Corporate Purpose, available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589951. 
 
-5.	Lynn S. Paine & Suraj Srinivasan, A Guide to the Big Ideas and Debates in Corporate Governance, available at: https://hbr.org/2019/10/a-guide-to-the-big-ideas-and-debates-in-corporate-governance.
-
-6.	EB Rock, For Whom is the Corporation Managed in 2020?: The Debate over Corporate Purpose, available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589951. 
-
-
-7.	Milton Friedman, A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits, available at: https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html. 
-
-8.	Colin Mayer, The Future of the Corporation and the Economics of Purpose, available at: https://doi.org/10.1111/joms.12660.
-
-9.	A Alchian and H Demsetz, Production, Information Costs, and Economic Organization, available at: https://www.jstor.org/stable/1815199. 
-
-
-10.	Michael C. Jensen & William H. Meckling, Theory of the firm: Managerial behavior, agency costs and ownership structure, available at: https://doi.org/10.1016/0304-405X(76)90026-X. 
-
-11.	Umakanth Varottil, The Evolution Of Corporate Law In Post‐Colonial India: From Transplant To Autochthony, available at: https://dx.doi.org/10.2139/ssrn.2557809.
-
-12.	Katsuhito Iwai, Persons, Things and Corporations: The Corporate Personality Controversy and Comparative Corporate Governance, available at: https://doi.org/10.2307/841070.
-
+5.	Colin Mayer, The Future of the Corporation and the Economics of Purpose, available at: https://doi.org/10.1111/joms.12660.
 
 
 
