@@ -59,12 +59,20 @@ o Suggested readings:
 
     o Fiona King, Cartooning and Mind Mapping in the Doctoral Journey, available at https://www.doi.org/10.1163/23644583-BJA10002
 
+    o The Literature Review, https://pressbooks.bccampus.ca/researchmethods/chapter/the-literature-review-adapted-from-adjei-n-d/
+    
     o J Webster & RT Watson, Analyzing the Past to Prepare for the Future: Writing a Literature Review, available at https://www.jstor.org/stable/4132319
+
+    o J Brocke et al, Reconstructing the Giant: On the Importance of Rigour in Documenting the Literature Search Process, available at https://aisel.aisnet.org/ecis2009/161/
 
     o J Knopf, Doing a literature review, available at https://www.jstor.org/stable/20451692
 
     o D Boote and P Beile, Scholars before Researchers: On the Centrality of the Dissertation Literature Review in Research Preparation, available at https://www.jstor.org/stable/3699805
 
+    o F Dziopa, A Systematic Literature Review of the Applications of Q-Technique and Its Methodology, https://doi.org/10.1027/1614-2241/a000021
+
+    o R Whittemore & K Knafl, The Intergrated Review: Updated Methodology, https://doi.org/10.1111/j.1365-2648.2005.03621.x
+    
     o M Crowe & L Sheppard, Mind mapping research methods, https://doi.org/10.1007/s11135-011-9463-8
 
     o A Zanasi, Text Mining Tools, https://doi.org/10.2495/978-1-85312-995-7/21
