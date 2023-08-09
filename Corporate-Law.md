@@ -21,10 +21,8 @@ o	Meaning and definition of company
 
 o	Suggested readings:
 
-    o	RH Coase, The Nature of the Firm, 4 Economica 386 (1937). Available at: https://doi.org/10.1111/j.1468-0335.1937.tb00002.x
+    o	RH Coase, The Nature of the Firm, 4 Economica 386 (1937). Available at: https://doi.org/10.1111/j.1468-0335.1937.tb00002.x (For more on the Theory of Firm, which is a very important topic in L&E, it is suggested to take a look at ([Theory of Firm reading list](https://github.com/anshuman-law/law-syllabi/blob/main/Theory-of-Firm.md)) 
     
-    o	A Alchian and H Demsetz, Production, Information Costs, and Economic Organization, available at: https://www.jstor.org/stable/1815199
-
     o	BD Baysinger & HN Butler, The Role of Corporate Law in the Theory of the Firm, 28 The Journal of Law and Economics 179 (1985). Available at: https://www.journals.uchicago.edu/doi/abs/10.1086/467079?journalCode=jle
 
     o	Henry Hansmann et al, Law and the Rise of the Firm (2006), available at: https://www.jstor.org/stable/4093574
