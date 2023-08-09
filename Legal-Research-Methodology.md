@@ -120,7 +120,7 @@ o Developing a coherent and all-rounded argument
 
 o Presenting the conclusions
 
-### Module 5: Tools and softwares
+### Module 5: Technology-assisted Research Management
 
 o Reading tools (eg: LiquidText, Mendeley)
 
