@@ -24,4 +24,6 @@ Anshuman
 
 [Legal Research Methodology](https://github.com/anshuman-law/law-syllabi/blob/main/Legal-Research-Methodology.md)
 
+[Intellectual Property and Competition Law](https://github.com/anshuman-law/law-syllabi/blob/main/IP-and-Competition-Law.md)
+
 [Github repository](https://github.com/anshuman-law/law-syllabi)
