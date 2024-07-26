@@ -22,8 +22,12 @@ Anshuman
 
 [Corporate Law](https://github.com/anshuman-law/law-syllabi/blob/main/Corporate-Law.md)
 
-[Legal Research Methodology](https://github.com/anshuman-law/law-syllabi/blob/main/Legal-Research-Methodology.md)
+[Economics for Lawyers](https://github.com/anshuman-law/law-syllabi/blob/main/Economics-for-Lawyers.md)
 
 [Intellectual Property and Competition Law](https://github.com/anshuman-law/law-syllabi/blob/main/IP-and-Competition-Law.md)
+
+[Legal Research Methodology](https://github.com/anshuman-law/law-syllabi/blob/main/Legal-Research-Methodology.md)
+
+
 
 [Github repository](https://github.com/anshuman-law/law-syllabi)
