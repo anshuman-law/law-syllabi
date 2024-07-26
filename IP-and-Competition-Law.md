@@ -27,6 +27,10 @@
         o	Case studies on network effects (e.g., tech platforms, telecommunications)
 ###  7.	Structural Understanding of Competition Act 2002
         o	Key provisions and structure of the Competition Act 2002
+
+### Suggested Readings:
+        o       Ariel Ezrachi, Competition and Antitrust Law: A Very Short Introduction (2021).                         https://doi.org/10.1093/actrade/9780198860303.001.0001       
+        
       
 
 # MODULE II: COMPETITION LAW AND INTELLECTUAL PROPERTY RIGHTS
