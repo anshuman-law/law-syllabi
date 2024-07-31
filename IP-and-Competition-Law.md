@@ -56,6 +56,11 @@
         o	Legal and economic analysis of market power derived from IPR
         o	Case studies on market power in IP-intensive industries
 
+### Suggested readings:
+        o       F Delbono & L Lambertini, Innovation and product market concentration: Schumpeter, arrow, and the inverted U-shape curve, 74 Oxford Economic Papers 297 (2022). https://doi.org/10.1093/oep/gpaa044
+        o       JS Gans, Regulating the Direction of Innovation (2024). https://www.nber.org/papers/w32741
+
+
 # MODULE III: MARKET POWER AND MARKET DEFINITION
 ###  1.	Introduction to Market Power
         o	Definition and significance of market power
