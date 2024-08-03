@@ -32,6 +32,7 @@
         o       Ariel Ezrachi, Competition and Antitrust Law: A Very Short Introduction (2021).                         https://doi.org/10.1093/actrade/9780198860303.001.0001      
         o       Ernest Gellhorn, An Introduction to Antitrust Economics, 1975 Duke Law Journal 1 (1975). https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2512&context=dlj
         o       Introduction to Competition Law, CCI (2016). http://164.100.58.95/sites/default/files/advocacy_booklet_document/CCI%20Basic%20Introduction_0.pdf
+        o       https://youtu.be/LrzKDKPvg4Y?si=s7Q4Mk_OfszCB6Ga
         
       
 
