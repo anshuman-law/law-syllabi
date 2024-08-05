@@ -310,7 +310,7 @@
 -	Mark A. Lemley & Mark McKenna, Is Pepsi Really a Substitute for Coke? Market Definition in Antitrust and IP, 100 Georgetown Law Journal 2055 (2012).
 
 #### Miscellaneous
-- IP and Competition Policy, WIPO, https://www.wipo.int/web/competition-policy
-- 
+- [IP and Competition Policy, WIPO](https://www.wipo.int/web/competition-policy)
+- [Competition Policy and Strategy Lecture Series (YouTube)](https://www.youtube.com/watch?v=GLDi-5miRbk&list=PLaMyPT8Jkw7nTz7-uvd5Ov-s2vwIIxPGq&pp=iAQB)
 
 
