@@ -1,0 +1,136 @@
+### Timeseries
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the logistic growth function
+def logistic_growth(P, r, D, time_steps):
+    population = np.zeros(time_steps)
+    population[0] = P  # initial population
+    for t in range(1, time_steps):
+        population[t] = population[t-1] + r * population[t-1] * (1 - population[t-1] / D)
+    return population
+
+# Set the parameters
+r = 2.9 # intrinsic growth rate
+D = 10  # carrying capacity
+P_initial = 2  # initial population size
+time_steps = 50  # number of time periods
+
+# Generate the time series data
+population_time_series = logistic_growth(P_initial, r, D, time_steps)
+
+# Plotting the time series
+plt.figure(figsize=(10, 6))
+plt.plot(population_time_series, label=f'r={r}, D={D}, P0={P_initial}')
+plt.title('Logistic Growth Model Time Series')
+plt.xlabel('Time')
+plt.ylabel('Population')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+
+
+
+### Logistic Growth
+
+
+# Adjusting the function to allow changing a single r value for both population time series
+
+def compare_initial_conditions_with_single_r(r, D, P_initial1, P_initial2, time_steps):
+    # Generate time series data for both initial populations with the same r value
+    population_time_series1 = logistic_growth(P_initial1, r, D, time_steps)
+    population_time_series2 = logistic_growth(P_initial2, r, D, time_steps)
+
+    # Create a single plot
+    plt.figure(figsize=(12, 6))
+
+    # Plot both time series on the same graph
+    plt.plot(population_time_series1, 'b-', label=f'Initial Population {P_initial1}')
+    plt.plot(population_time_series2, 'r-', label=f'Initial Population {P_initial2}')
+
+    # Adding title, labels, and legend
+    plt.title(f'Comparison of Logistic Growth with r={r} and Different Initial Populations')
+    plt.xlabel('Time')
+    plt.ylabel('Population')
+    plt.legend()
+    plt.grid(True)
+
+    # Show the plot
+    plt.show()
+
+# Example usage with a single r value
+r = 2.8  # growth rate
+D = 10   # carrying capacity
+P_initial1 = 1  # first initial population size
+P_initial2 = 1.01  # second initial population size
+time_steps = 50  # number of time periods
+
+compare_initial_conditions_with_single_r(r, D, P_initial1, P_initial2, time_steps)
+
+### Critical Loss
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Re-computing the data after state reset
+initial_price = 10
+initial_units_sold = 100
+initial_profit_per_unit = 10
+customer_loss_per_increase = 4
+
+# Lists to store the computed values
+price_list = []
+units_sold_list = []
+total_revenue_list = []
+total_profit_list = []
+
+# Calculate values until profit drops below 1000
+i = 0
+while True:
+    price = initial_price + i
+    units_sold = initial_units_sold - (customer_loss_per_increase * i)
+    total_revenue = price * units_sold
+    total_profit = (price - (initial_price - initial_profit_per_unit)) * units_sold
+    
+    price_list.append(price)
+    units_sold_list.append(units_sold)
+    total_revenue_list.append(total_revenue)
+    total_profit_list.append(total_profit)
+    
+    if total_profit < initial_price * initial_units_sold:
+        break
+    i += 1
+
+# Creating a DataFrame
+df_extended = pd.DataFrame({
+    'Price (in Rupees)': price_list,
+    'Units Sold': units_sold_list,
+    'Total Revenue (in Rupees)': total_revenue_list,
+    'Total Profit (in Rupees)': total_profit_list
+})
+
+# Plotting the graph
+plt.figure(figsize=(12, 6))
+plt.plot(df_extended['Price (in Rupees)'], df_extended['Total Profit (in Rupees)'],
+         marker='o', linestyle='-', color='blue', label='Total Profit')
+plt.axhline(y=1000, color='red', linestyle='--', label='Profit Threshold (1000 Rupees)')
+plt.xlabel('Price (in Rupees)')
+plt.ylabel('Total Profit (in Rupees)')
+plt.title('Total Profit vs Price Increase')
+plt.legend()
+plt.grid(True)
+
+# Display the plot
+plt.show()
+
+# Display the table
+df_extended
+
+
+
+
+### Preferential Attachment
+  Netlogo model [here](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Preferential%20Attachment.nlogo).
