@@ -32,6 +32,9 @@ o Suggested readings:
 
     o M Heise, The Past, Present, and Future of Empirical Legal Scholarship: Judicial Decision Making and the New Empiricism, https://scholarship.law.cornell.edu/facpub/733/
 
+    o M Minow, Archetypal Legal Scholarship: A Field Guide, https://jle.aals.org/cgi/viewcontent.cgi?article=1093&context=home
+
+    o M Crotty, The foundations of social research : meaning and perspective in the research process (1998).
 
 
 
