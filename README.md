@@ -28,6 +28,8 @@ Anshuman
 
 [Legal Research Methodology](https://github.com/anshuman-law/law-syllabi/blob/main/Legal-Research-Methodology.md)
 
+[Complexity Science and Law](https://github.com/anshuman-law/law-syllabi/blob/main/legal-complexity.md)
+
 
 
 [Github repository](https://github.com/anshuman-law/law-syllabi)
