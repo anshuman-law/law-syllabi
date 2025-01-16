@@ -167,6 +167,10 @@ o	Theories of corporate insolvency
 
 o	IBC 2016
 
+o   Suggested readings:
+
+    o    Hamish Anderson, The Framework of Corporate Insolvency Law (OUP), available at: https://doi.org/10.1093/oso/9780198805311.001.0001
+
 
 
 ### Module X: Corporate Death
