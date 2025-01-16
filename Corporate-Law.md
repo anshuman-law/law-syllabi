@@ -48,7 +48,9 @@ o	Concept of Corporate Veil
 
 o	Suggested readings:
 
-    o	AW Machen, Corporate Personality, 24 Harvard Law Review 253 (1911). Available at: https://doi.org/10.2307/1324056
+    o   John Armour, Henry Hansmann, Reinier Kraakman, The Essential Elements of Corporate Law: What is Corporate Law?, available at: http://www.law.harvard.edu/programs/olin_center/papers/pdf/Kraakman_643.pdf
+    
+    o   AW Machen, Corporate Personality, 24 Harvard Law Review 253 (1911). Available at: https://doi.org/10.2307/1324056
     
     o	Katsuhito Iwai, Persons, Things and Corporations: The Corporate Personality Controversy and Comparative Corporate Governance, available at: https://doi.org/10.2307/841070
 
@@ -200,6 +202,8 @@ o	Suggested readings:
     o	EB Rock, For Whom is the Corporation Managed in 2020?: The Debate over Corporate Purpose, available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589951
 
     o	Colin Mayer, The Future of the Corporation and the Economics of Purpose, available at: https://doi.org/10.1111/joms.12660
+
+    o	Destiny Ogedegbe, The Berle & Means Philosophy of Corporate Law and Governance: Are American Corporations Still Manager-Controlled or Have Institutional Investors Taken Over? (2022). Available at: http://dx.doi.org/10.2139/ssrn.4558400
 
 
 
