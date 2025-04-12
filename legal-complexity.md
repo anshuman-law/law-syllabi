@@ -26,6 +26,7 @@ By the end of the course, students will:
       - David Krakauer, The Complex World: An Introduction to the Foundations of Complexity Science (2024).
       - David Krakauer (ed), Foundational Papers in Complexity Science (2024).
       - Mark Newman, Networks (2018).
+      - Elena Rovenskaya et al, An Ecological Perspective to Master the Complexities of the Digital Economy, International Institute for Applied Systems Analysis (2024). http://doi.org/10.21203/RS.3.RS-3552451/V1
 
 
 ### **Module 2: Law as a Complex Adaptive System**
