@@ -1,4 +1,4 @@
-#AI Ethics and Legal Responsibility
+# AI Ethics and Legal Responsibility
 
 ## Course Objectives
 1.	Understand artificial intelligence as a legal, ethical, social, economic, and governance challenge.
